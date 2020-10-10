@@ -1,6 +1,6 @@
 # Module1
 
-# Creating a Data-bound Component
+## Creating a Data-bound Component
 
 ### [Angular 2 Fundamentals](https://app.pluralsight.com/courses/angular2-fundamentals) Practice Exercise
 
@@ -57,3 +57,7 @@ A finished version of this exercise is available here for reference: https://pln
 ```
 {name:'ngConf 2025', date: '3/1/2025', time: '8am', location: {address: '123 Main St', city: 'Salt Lake City, UT', country: 'USA'}}
 ```
+
+## Solved
+
+- ### Check [here](https://plnkr.co/edit/buzErlIrnfuSnlEm) for solved plunk
